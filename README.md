@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DerickTred1
 - 👀 I’m and executive recruiter and am looking for a Site Reliability Engineer for a Fintech client of mine in Cape Town. 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on referrals
 - 📫 How to reach me : derickt@pinpointone.co.za, or 083 442 2119
 
 <!---
